@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!--
 <img src='https://github-readme-stats.vercel.app/api?username=enriquejuan2&count_private=true&show_icons=true&theme=tokyonight&include_all_stars=true'  />
 <!--
 **enriquejuan2/enriquejuan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 <img src='https://github.com/ibnsultan/ibnsultan/blob/main/assets/gitcover.gif' width='100%' height='auto' />
 ![Abdulbasit's GitHub stats](https://github-readme-stats.vercel.app/api?username=enriquejuan2&show_icons=true&theme=tokyonight)
 -->
-
+<!--
 ### Languages Brief
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=enriquejuan2&langs_count=8&hide=css,html&layout=compact&theme=tokyonight'  />
-
+-->
 
 ### Trophies
 <img src='https://github-profile-trophy.vercel.app/?username=enriquejuan2&theme=tokyonight' >
